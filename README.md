@@ -4,6 +4,7 @@ Just some themes built off the dark mode in discord to look better, may perform 
 
 To apply the theme, copy the text from inside the file of your choosing, make sure you have dark theme enabled in discord, then paste the code into the console, as shown by this gif.
 
+![](DiscordThemeInstructions.gif)
 
 # DarkTheme.js
 
